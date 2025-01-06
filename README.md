@@ -1,7 +1,7 @@
 <h1 align="center">ScireAI</h1>
 <p align="center">Your research assistant AI for an enhanced research experience.</p>
 <p align="center">
-  <img src="titleImage.png" alt="Scire AI Logo" width="600">
+  <img src="titleImage.png" alt="Scire AI Logo" width="900">
 </p>
 
 ---
